@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <string name="title_name">我是标题</string>
+    <string name="content_value">使用Fragment作为主面板</string>
+</resources>
